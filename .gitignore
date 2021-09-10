@@ -1,0 +1,18 @@
+/.BS_venv
+/.docs
+/.vscode
+/data
+/__pycache__
+.gitignore
+.lib_requirements
+lasio_utilities.py
+test.cpp
+test.exe
+test_auto picking.py
+test_dlis_load_function.py
+test_point_cloud.py
+fmi_xyz_n.npy
+fmi_xyz.npy
+fmi_raster.npy
+mesh.ply
+pcd.ply
